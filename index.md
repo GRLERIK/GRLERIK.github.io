@@ -7,6 +7,14 @@ author_profile: true
 ---
 Olá sou estudante de Engenharia da Computação estudo na [UNIFOR](https://www.unifor.br/) e esse é meu portfolio.<br>
 
-Venho por aqui apresentar meu currículo 
+Venho por aqui apresentar meu currículo:
 
-**Objetivo Profissional**
+<u>**Objetivo Profissional**</u><br>
+
+Obter a experiência para atuar no mercado das Tecnologias de Informação, aprendendo constantemente todos os caminhos e ideias, afim de estar atualizado com a demanda do mercado e obter melhora profissional e pessoal.
+
+<u>**Formação Acadêmica**</u><br>
+
+Cursando Engenharia da Computação – Universidade de Fortaleza – Fortaleza, Ceará
+Janeiro/2020 – Em curso
+
