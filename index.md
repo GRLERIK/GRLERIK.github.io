@@ -5,7 +5,8 @@
 layout: single
 author_profile: true
 ---
-Olá sou estudante de Engenharia da Computação estudo na [UNIFOR](https://www.unifor.br/) e esse é meu portfolio.
+Olá sou estudante de Engenharia da Computação estudo na [UNIFOR](https://www.unifor.br/) e esse é meu portfolio.<br>
+
 Venho por aqui apresentar meu currículo 
 
 **Objetivo Profissional**
