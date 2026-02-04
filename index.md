@@ -9,11 +9,11 @@ Olá sou estudante de Engenharia da Computação estudo na [UNIFOR](https://www.
 
 Venho por aqui apresentar meu currículo:
 
-<u>**Objetivo Profissional**</u><br>
+<u><strong>Objetivo Profissional</strong></u><br>
 
 Obter a experiência para atuar no mercado das Tecnologias de Informação, aprendendo constantemente todos os caminhos e ideias, afim de estar atualizado com a demanda do mercado e obter melhora profissional e pessoal.
 
-<u>**Formação Acadêmica**</u><br>
+<u><strong>Formação Acadêmica</strong></u><br>
 
 Cursando Engenharia da Computação – Universidade de Fortaleza – Fortaleza, Ceará
 Janeiro/2020 – Em curso
