@@ -74,9 +74,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GRLERIK"
-   # - label: "Instagram"
-   #   icon: "fab fa-fw fa-instagram"
-   #   url: "https://instagram.com/"
+    - label: "Curriculum Vitae"
+      icon: "fa-solid fa-file-pdf"
+      url: "https://drive.google.com/file/d/1L9oeQV9Bs3kEqUvqUqIAR_6vhnNsFEBe/view?usp=sharing"
 
 footer:
   links:
