@@ -7,7 +7,7 @@ author_profile: true
 ---
 Olá sou estudante de Engenharia da Computação estudo na [UNIFOR](https://www.unifor.br/) e esse é meu portfolio.<br>
 
-Venho por aqui apresentar meu currículo:
+Venho por aqui apresentar meu [currículo(Link para ver as informações pessoais)](https://drive.google.com/file/d/1L9oeQV9Bs3kEqUvqUqIAR_6vhnNsFEBe/view?usp=sharing):
 
 <u><strong>Objetivo Profissional</strong></u><br>
 
